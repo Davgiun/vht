@@ -124,5 +124,4 @@ public class Percolation {
             return str.toString();
         }
     }
-
 }
